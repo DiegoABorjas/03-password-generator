@@ -26,4 +26,6 @@ Here is a screenshot of what the application looks like:
 
 ![Getting Started](./assets/project%20screenshot.jpg)
 
+Link to the deployed application:
 
+https://diegoaborjas.github.io/03-password-generator/
